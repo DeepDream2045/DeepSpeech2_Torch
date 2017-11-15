@@ -47,3 +47,4 @@ outputs = model.module.recognize(inputs, input_lengths)
 ```
   
 I appreciate any kind of feedback or contribution.  Feel free to proceed with small issues like bug fixes, documentation improvement.  For major contributions and new features, please discuss with the collaborators in corresponding issues.  
+
