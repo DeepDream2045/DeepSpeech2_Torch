@@ -1,4 +1,4 @@
-# deepspeech2
+# deepspeech2 
   
 Released in 2015, Baidu Research's Deep Speech 2 model converts speech to text end to end from a normalized sound spectrogram to the sequence of characters. It consists of a few convolutional layers over both time and frequency, followed by gated recurrent unit (GRU) layers (modified with an additional batch normalization).
   
